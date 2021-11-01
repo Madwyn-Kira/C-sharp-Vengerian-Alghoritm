@@ -1,0 +1,20 @@
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\bin\Debug\Vengerian Alghoritm.exe.config
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\bin\Debug\Vengerian Alghoritm.exe
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\bin\Debug\Vengerian Alghoritm.pdb
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.csprojAssemblyReference.cache
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\obj\Debug\Vengerian_Alghoritm.Form1.resources
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\obj\Debug\Vengerian_Alghoritm.Properties.Resources.resources
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.csproj.GenerateResource.cache
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.csproj.CoreCompileInputs.cache
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.exe
+C:\Users\madwyn\Desktop\Алгоритмы\Vengerian Alghoritm\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.pdb
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\bin\Debug\Vengerian Alghoritm.exe.config
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\bin\Debug\Vengerian Alghoritm.exe
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\bin\Debug\Vengerian Alghoritm.pdb
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.csprojAssemblyReference.cache
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\obj\Debug\Vengerian_Alghoritm.Form1.resources
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\obj\Debug\Vengerian_Alghoritm.Properties.Resources.resources
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.csproj.GenerateResource.cache
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.csproj.CoreCompileInputs.cache
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.exe
+C:\Users\madwyn\Documents\main\проекты(все языки)\Vengerian Alghoritm C#\Vengerian Alghoritm\obj\Debug\Vengerian Alghoritm.pdb
